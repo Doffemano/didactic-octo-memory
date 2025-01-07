@@ -122,3 +122,27 @@
 [21:22:17] [Server thread/INFO]: AtroxX6 has made the advancement [Suit Up]
 [21:22:30] [Server thread/INFO]: juancho_200 has made the advancement [Diamonds!]
 [21:23:16] [Server thread/INFO]: bjotas issued server command: /tpa juancho_200
+[21:23:24] [Async Chat Thread - #2/INFO]: [Not Secure] <bjotas> ./tpaccept
+[21:23:47] [Server thread/INFO]: juancho_200 issued server command: /tpaccept
+[21:24:35] [Server thread/INFO]: bjotas has made the advancement [Diamonds!]
+[21:24:44] [Server thread/INFO]: Doffe issued server command: /tp AtroxX6 Doffe
+[21:24:44] [Server thread/INFO]: [Doffe: Teleported AtroxX6 to Doffe]
+[21:27:07] [Server thread/INFO]: bjotas has made the advancement [Cover Me with Diamonds]
+[21:27:28] [Server thread/INFO]: bjotas has made the advancement [Suit Up]
+[21:28:03] [Server thread/INFO]: juancho_200 has made the advancement [Cover Me with Diamonds]
+[21:28:11] [User Authenticator #2/INFO]: UUID of player xamili is 799dbed0-e3d0-359c-b4fe-703067779aae
+[21:28:13] [Server thread/INFO]: xamili joined the game
+[21:28:13] [Server thread/INFO]: xamili[/127.187.61.161:37357] logged in with entity id 7202 at ([world]7.5, 89.0, -8.5)
+[21:28:26] [Server thread/INFO]: xamili issued server command: /tpa juancho_200
+[21:28:45] [Server thread/INFO]: juancho_200 issued server command: /tpaccept
+[21:29:00] [Server thread/INFO]: xamili issued server command: /tpa bjotas
+[21:29:03] [Server thread/INFO]: bjotas issued server command: /tpaccept
+[21:29:38] [Server thread/INFO]: xamili has made the advancement [Stone Age]
+[21:29:42] [Server thread/INFO]: xamili has made the advancement [Isn't It Iron Pick]
+[21:30:17] [Server thread/INFO]: xamili has made the advancement [Monster Hunter]
+[21:30:45] [Server thread/INFO]: xamili has made the advancement [Diamonds!]
+[21:30:50] [Server thread/INFO]: Doffe issued server command: /tp AtroxX6
+[21:30:50] [Server thread/INFO]: [Doffe: Teleported Doffe to AtroxX6]
+[21:31:59] [Server thread/INFO]: xamili has made the advancement [Cover Me with Diamonds]
+[21:32:08] [Server thread/INFO]: xamili has made the advancement [Suit Up]
+[21:32:30] [Server thread/INFO]: xamili has made the advancement [Acquire Hardware]
