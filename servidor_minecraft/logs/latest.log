@@ -236,3 +236,33 @@
 [22:11:19] [Server thread/INFO]: AtroxX6 issued server command: /tpaccept
 [22:12:45] [Server thread/INFO]: xamili issued server command: /tpa bjotas
 [22:12:48] [Server thread/INFO]: bjotas issued server command: /tpaccept
+[22:16:38] [Server thread/INFO]: AtroxX6 issued server command: /tpa gusty44x
+[22:16:53] [Server thread/INFO]: gusty44x issued server command: /tpaccept
+[22:17:39] [Server thread/INFO]: xamili issued server command: /tp xamili -685.0 119 -223.0
+[22:18:53] [Server thread/INFO]: AtroxX6 issued server command: /tpa Doffe
+[22:18:54] [Server thread/INFO]: Doffe issued server command: /locate structure minecraft:village_plains
+[22:18:55] [Server thread/INFO]: Locating element minecraft:village_plains took 661 ms
+[22:18:56] [Server thread/INFO]: xamili issued server command: /msg bjotas escodi algunos aldeanos
+[22:18:57] [Server thread/INFO]: Doffe issued server command: /tpaccept
+[22:19:02] [Server thread/INFO]: bjotas issued server command: /r dale
+[22:19:03] [Server thread/INFO]: Villager Villager['Nitwit'/11270, uuid='a8ccf6d1-b91b-4066-b88c-a94f380d95ed', l='ServerLevel[world]', x=-695.52, y=120.00, z=-213.33, cpos=[-44, -14], tl=43318, v=true] died, message: 'Nitwit was slain by xamili'
+[22:19:05] [Server thread/INFO]: xamili has made the advancement [Sweet Dreams]
+[22:19:08] [Server thread/INFO]: Villager Villager['Villager'/12592, uuid='540ae6dc-8bda-4f40-9411-b8ddc0ea87e8', l='ServerLevel[world]', x=-696.70, y=120.00, z=-211.70, cpos=[-44, -14], tl=41763, v=true] died, message: 'Villager was slain by xamili'
+[22:19:11] [Server thread/INFO]: Villager Villager['Villager'/10930, uuid='bf87e023-8510-45fc-bc88-391e32c1915e', l='ServerLevel[world]', x=-693.08, y=120.00, z=-213.88, cpos=[-44, -14], tl=43007, v=true] died, message: 'Villager was slain by xamili'
+[22:20:09] [Server thread/INFO]: AtroxX6 issued server command: /tpa Doffe
+[22:20:49] [Server thread/INFO]: AtroxX6 issued server command: /tpa Doffe
+[22:20:52] [Server thread/INFO]: Doffe issued server command: /tpaccept
+[22:21:20] [Server thread/INFO]: AtroxX6 issued server command: /tpa Doffe
+[22:21:20] [Server thread/INFO]: Doffe has made the advancement [Ice Bucket Challenge]
+[22:21:23] [Server thread/INFO]: Doffe issued server command: /tpaccept
+[22:21:31] [Server thread/INFO]: AtroxX6 issued server command: /tpa Doffe
+[22:21:37] [Server thread/INFO]: Doffe issued server command: /tpaccept
+[22:21:48] [Server thread/INFO]: gusty44x issued server command: /tpa Doffe
+[22:21:53] [Server thread/INFO]: Doffe issued server command: /tpaccept
+[22:22:20] [Server thread/INFO]: bjotas issued server command: /msg xamili me fui ala mrd
+[22:22:43] [Server thread/INFO]: xamili issued server command: /msg bjotas hacete tp y pasamos los aldeanos por el portal del nether
+[22:22:50] [Server thread/INFO]: bjotas issued server command: /msg nana
+[22:22:56] [Server thread/INFO]: bjotas issued server command: /msg xamili nono busco otra aldea
+[22:23:04] [Async Chat Thread - #11/INFO]: [Not Secure] <xamili> bueno
+[22:23:47] [Server thread/INFO]: gusty44x issued server command: /tpa AtroxX6
+[22:23:50] [Server thread/INFO]: AtroxX6 issued server command: /tpaccept
