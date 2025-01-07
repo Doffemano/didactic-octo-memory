@@ -53,6 +53,18 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-01-07 22:03:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-07 22:07:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-01-07 21:40:24 +0000"
@@ -335,6 +347,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-01-07 22:00:38 +0000",
+      "minecraft:soul_sand_valley": "2025-01-07 22:02:27 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2025-01-07 21:55:09 +0000"
@@ -368,6 +387,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-01-07 21:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-07 22:00:38 +0000"
     },
     "done": true
   },
@@ -560,6 +585,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-01-07 21:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-07 22:00:38 +0000"
     },
     "done": true
   },
@@ -836,9 +867,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-07 21:33:42 +0000",
+      "minecraft:piglin": "2025-01-07 22:04:00 +0000",
       "minecraft:spider": "2025-01-07 21:30:25 +0000",
       "minecraft:zombie": "2025-01-07 21:14:20 +0000",
-      "minecraft:creeper": "2025-01-07 21:36:29 +0000"
+      "minecraft:creeper": "2025-01-07 21:36:29 +0000",
+      "minecraft:hoglin": "2025-01-07 22:02:10 +0000"
     },
     "done": false
   },
@@ -1001,12 +1034,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_birch_forest": "2025-01-07 21:09:06 +0000",
+      "minecraft:beach": "2025-01-07 22:07:57 +0000",
       "minecraft:dark_forest": "2025-01-07 21:40:22 +0000",
       "minecraft:forest": "2025-01-07 21:11:46 +0000",
       "minecraft:river": "2025-01-07 21:37:54 +0000",
       "minecraft:grove": "2025-01-07 21:09:02 +0000",
       "minecraft:birch_forest": "2025-01-07 21:43:53 +0000",
       "minecraft:stony_shore": "2025-01-07 21:19:05 +0000",
+      "minecraft:savanna": "2025-01-07 22:07:34 +0000",
       "minecraft:plains": "2025-01-07 21:53:00 +0000"
     },
     "done": false
@@ -1047,6 +1082,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-07 22:07:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-07 21:13:10 +0000"
@@ -1077,6 +1118,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-01-07 22:02:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-01-07 21:18:53 +0000"
@@ -1097,6 +1144,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-07 22:02:34 +0000",
       "cooked_chicken": "2025-01-07 21:52:16 +0000",
       "rotten_flesh": "2025-01-07 21:14:34 +0000",
       "cooked_mutton": "2025-01-07 21:25:04 +0000",

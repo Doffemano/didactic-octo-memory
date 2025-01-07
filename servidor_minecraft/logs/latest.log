@@ -218,3 +218,21 @@
 [22:02:14] [Server thread/INFO]: bjotas has made the advancement [Ice Bucket Challenge]
 [22:02:28] [Server thread/INFO]: Doffe issued server command: /gamerule playersSleepingPercentage 1
 [22:02:28] [Server thread/INFO]: [Doffe: Gamerule playersSleepingPercentage is now set to: 1]
+[22:03:56] [Server thread/INFO]: juancho_200 has made the advancement [Oh Shiny]
+[22:05:21] [Server thread/INFO]: Doffe issued server command: /locate structure minecraft:village_plains
+[22:05:21] [Server thread/INFO]: Locating element minecraft:village_plains took 1 ms
+[22:06:02] [Server thread/INFO]: AtroxX6 issued server command: /tpa Doffe
+[22:06:04] [Server thread/INFO]: Doffe issued server command: /tpaccept
+[22:06:16] [Server thread/INFO]: gusty44x issued server command: /tpa Doffe
+[22:06:18] [Server thread/INFO]: Doffe issued server command: /tpaccept
+[22:06:19] [Server thread/INFO]: Doffe issued server command: /tpaccept
+[22:07:07] [Server thread/INFO]: gusty44x issued server command: /tpa Doffe
+[22:07:12] [Server thread/INFO]: Doffe issued server command: /tpaccept
+[22:07:24] [Server thread/INFO]: gusty44x issued server command: /tpa Doffe
+[22:07:26] [Server thread/INFO]: Doffe issued server command: /tpaccept
+[22:08:13] [Server thread/INFO]: Doffe has made the advancement [Sweet Dreams]
+[22:08:15] [Server thread/INFO]: xamili has made the advancement [Not Today, Thank You]
+[22:11:05] [Server thread/INFO]: gusty44x issued server command: /tpa AtroxX6
+[22:11:19] [Server thread/INFO]: AtroxX6 issued server command: /tpaccept
+[22:12:45] [Server thread/INFO]: xamili issued server command: /tpa bjotas
+[22:12:48] [Server thread/INFO]: bjotas issued server command: /tpaccept

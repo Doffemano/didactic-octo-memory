@@ -390,7 +390,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:zombie": "2025-01-07 21:30:17 +0000"
+      "minecraft:skeleton": "2025-01-07 22:08:16 +0000",
+      "minecraft:witch": "2025-01-07 22:03:43 +0000",
+      "minecraft:zombie": "2025-01-07 21:30:17 +0000",
+      "minecraft:creeper": "2025-01-07 22:05:59 +0000"
     },
     "done": false
   },
@@ -481,8 +484,11 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "rotten_flesh": "2025-01-07 21:31:44 +0000",
+      "potato": "2025-01-07 22:04:25 +0000",
       "cooked_beef": "2025-01-07 21:40:57 +0000",
-      "beef": "2025-01-07 21:39:07 +0000"
+      "beef": "2025-01-07 21:39:07 +0000",
+      "baked_potato": "2025-01-07 22:05:39 +0000",
+      "porkchop": "2025-01-07 22:03:56 +0000"
     },
     "done": false
   },
@@ -1086,9 +1092,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-07 22:10:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-01-07 21:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-07 22:08:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-07 22:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-01-07 22:04:35 +0000"
     },
     "done": true
   },
@@ -1098,9 +1128,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-07 22:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-07 22:09:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-01-07 21:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-07 22:03:44 +0000"
     },
     "done": true
   },
