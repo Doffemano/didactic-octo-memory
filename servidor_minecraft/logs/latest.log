@@ -1,268 +1,66 @@
-[21:03:04] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[21:03:04] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[21:03:04] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[21:03:05] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
-[21:03:08] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 3008ms.
-[21:03:08] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
-[21:03:08] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+[00:04:40] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[00:04:40] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[00:04:41] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[00:04:42] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[00:04:42] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
  - SimpleTpa (7.4), SkinsRestorer (15.5.1)
-[21:03:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:03:18] [ServerMain/INFO]: Loaded 1290 recipes
-[21:03:18] [ServerMain/INFO]: Loaded 1399 advancements
-[21:03:18] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[21:03:18] [Server thread/INFO]: Loading properties
-[21:03:18] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[21:03:19] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[21:03:19] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:03:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:03:20] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[21:03:21] [Server thread/INFO]: Default game type: SURVIVAL
-[21:03:21] [Server thread/INFO]: Generating keypair
-[21:03:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:03:21] [Server thread/INFO]: Using epoll channel type
-[21:03:21] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[21:03:21] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[21:03:21] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
-[21:03:21] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.4
-[21:03:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:03:21] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[21:03:23] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[21:03:24] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
-[21:03:25] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[21:03:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:03:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:03:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:03:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:03:25] [Server thread/INFO]: Preparing level "world"
-[21:03:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:03:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[21:03:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[21:03:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[21:03:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[21:03:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[21:03:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:03:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
-[21:03:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
-[21:03:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[21:03:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:03:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[21:03:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[21:03:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:03:28] [Server thread/INFO]: Time elapsed: 2077 ms
-[21:03:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:03:28] [Server thread/INFO]: Time elapsed: 459 ms
-[21:03:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:03:28] [Server thread/INFO]: Time elapsed: 181 ms
-[21:03:28] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
-[21:03:28] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[21:03:28] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
-[21:03:29] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[21:03:29] [Server thread/INFO]: [spark] Starting background profiler...
-[21:03:29] [Server thread/INFO]: Done preparing level "world" (4.165s)
-[21:03:29] [Server thread/INFO]: Running delayed init tasks
-[21:03:29] [Server thread/INFO]: Done (26.720s)! For help, type "help"
-[21:03:29] [Server thread/INFO]: Timings Reset
-[21:03:33] [User Authenticator #0/INFO]: UUID of player bjotas is 31694f1c-e73c-3b2a-8156-706c0d4c64cd
-[21:03:36] [Server thread/INFO]: bjotas joined the game
-[21:03:36] [Server thread/INFO]: bjotas[/127.0.94.74:37003] logged in with entity id 75 at ([world]5.50642563498745, 94.0, -17.197502317987713)
-[21:03:59] [User Authenticator #0/INFO]: UUID of player Doffe is 966e33d6-83c7-375c-af7d-a2b81ef9cd9c
-[21:04:01] [Server thread/INFO]: Doffe joined the game
-[21:04:01] [Server thread/INFO]: Doffe[/127.210.4.35:59021] logged in with entity id 315 at ([world]-66.45167144742754, 72.0, -26.276396742262968)
-[21:04:08] [Server thread/INFO]: Doffe issued server command: /tp bjotas
-[21:04:08] [Server thread/INFO]: [Doffe: Teleported Doffe to bjotas]
-[21:04:24] [User Authenticator #0/INFO]: UUID of player AtroxX6 is d25ae1fe-0155-3fdf-9a47-64b14499fbed
-[21:04:26] [Server thread/INFO]: AtroxX6 joined the game
-[21:04:26] [Server thread/INFO]: AtroxX6[/127.27.218.22:42601] logged in with entity id 414 at ([world]5.5, 95.0, 8.5)
-[21:05:11] [Server thread/INFO]: Doffe issued server command: /gamemode spectator
-[21:05:11] [Server thread/INFO]: [Doffe: Set own game mode to Spectator Mode]
-[21:05:12] [Server thread/INFO]: Doffe issued server command: /gamemode survival
-[21:05:12] [Server thread/INFO]: [Doffe: Set own game mode to Survival Mode]
-[21:05:13] [Server thread/INFO]: Doffe issued server command: /gamemode spectator
-[21:05:13] [Server thread/INFO]: [Doffe: Set own game mode to Spectator Mode]
-[21:05:13] [Server thread/INFO]: Doffe issued server command: /gamemode survival
-[21:05:13] [Server thread/INFO]: [Doffe: Set own game mode to Survival Mode]
-[21:05:29] [Server thread/INFO]: Doffe hit the ground too hard
-[21:05:36] [Server thread/INFO]: Doffe issued server command: /tp AtroxX6
-[21:05:36] [Server thread/INFO]: [Doffe: Teleported Doffe to AtroxX6]
-[21:05:43] [Server thread/INFO]: bjotas fell from a high place
-[21:06:18] [Server thread/INFO]: AtroxX6 has made the advancement [Stone Age]
-[21:06:27] [Server thread/INFO]: Doffe has made the advancement [Stone Age]
-[21:06:46] [Server thread/INFO]: AtroxX6 has made the advancement [Getting an Upgrade]
-[21:07:01] [Server thread/INFO]: Doffe has made the advancement [Getting an Upgrade]
-[21:08:13] [Server thread/INFO]: bjotas has made the advancement [Stone Age]
-[21:08:42] [Server thread/INFO]: bjotas has made the advancement [Getting an Upgrade]
-[21:08:58] [User Authenticator #1/INFO]: UUID of player juancho_200 is b2db16f5-476d-354e-8ed1-7b595932f296
-[21:09:01] [Server thread/INFO]: juancho_200 joined the game
-[21:09:01] [Server thread/INFO]: juancho_200[/127.50.119.23:33059] logged in with entity id 1486 at ([world]8.5, 88.0, 3.5)
-[21:09:14] [Server thread/INFO]: Doffe issued server command: /tp AtroxX6 Doffe
-[21:09:14] [Server thread/INFO]: [Doffe: Teleported AtroxX6 to Doffe]
-[21:09:19] [Server thread/INFO]: bjotas has made the advancement [Monster Hunter]
-[21:10:19] [Async Chat Thread - #1/INFO]: [Not Secure] <bjotas> asd
-[21:10:22] [Async Chat Thread - #1/INFO]: [Not Secure] <Doffe> asd
-[21:10:31] [Async Chat Thread - #1/INFO]: [Not Secure] <juancho_200> tp a @bjotas
-[21:10:39] [Async Chat Thread - #1/INFO]: [Not Secure] <bjotas> ./tpabjotas
-[21:10:53] [Server thread/INFO]: juancho_200 issued server command: /tpa bjotas
-[21:11:02] [Server thread/INFO]: bjotas issued server command: /tpaccept
-[21:11:36] [Server thread/INFO]: juancho_200 issued server command: /tpa bjotas
-[21:11:40] [Server thread/INFO]: bjotas issued server command: /tpaccept
-[21:12:40] [Server thread/INFO]: Doffe has made the advancement [Acquire Hardware]
-[21:13:10] [Server thread/INFO]: juancho_200 has made the advancement [Stone Age]
-[21:13:33] [Server thread/INFO]: juancho_200 has made the advancement [Getting an Upgrade]
-[21:13:39] [Server thread/INFO]: Doffe has made the advancement [Isn't It Iron Pick]
-[21:14:20] [Server thread/INFO]: juancho_200 has made the advancement [Monster Hunter]
-[21:14:21] [Server thread/INFO]: juancho_200 has made the advancement [Acquire Hardware]
-[21:15:20] [Server thread/INFO]: Doffe has made the advancement [Suit Up]
-[21:16:05] [Server thread/INFO]: AtroxX6 has made the advancement [Acquire Hardware]
-[21:16:11] [Server thread/INFO]: AtroxX6 has made the advancement [Isn't It Iron Pick]
-[21:16:44] [Server thread/INFO]: juancho_200 has made the advancement [Isn't It Iron Pick]
-[21:18:00] [Server thread/INFO]: juancho_200 has made the advancement [Suit Up]
-[21:18:03] [Server thread/INFO]: AtroxX6 has made the advancement [Monster Hunter]
-[21:22:00] [Server thread/INFO]: bjotas has made the advancement [Acquire Hardware]
-[21:22:08] [Server thread/INFO]: bjotas has made the advancement [Isn't It Iron Pick]
-[21:22:17] [Server thread/INFO]: AtroxX6 has made the advancement [Suit Up]
-[21:22:30] [Server thread/INFO]: juancho_200 has made the advancement [Diamonds!]
-[21:23:16] [Server thread/INFO]: bjotas issued server command: /tpa juancho_200
-[21:23:24] [Async Chat Thread - #2/INFO]: [Not Secure] <bjotas> ./tpaccept
-[21:23:47] [Server thread/INFO]: juancho_200 issued server command: /tpaccept
-[21:24:35] [Server thread/INFO]: bjotas has made the advancement [Diamonds!]
-[21:24:44] [Server thread/INFO]: Doffe issued server command: /tp AtroxX6 Doffe
-[21:24:44] [Server thread/INFO]: [Doffe: Teleported AtroxX6 to Doffe]
-[21:27:07] [Server thread/INFO]: bjotas has made the advancement [Cover Me with Diamonds]
-[21:27:28] [Server thread/INFO]: bjotas has made the advancement [Suit Up]
-[21:28:03] [Server thread/INFO]: juancho_200 has made the advancement [Cover Me with Diamonds]
-[21:28:11] [User Authenticator #2/INFO]: UUID of player xamili is 799dbed0-e3d0-359c-b4fe-703067779aae
-[21:28:13] [Server thread/INFO]: xamili joined the game
-[21:28:13] [Server thread/INFO]: xamili[/127.187.61.161:37357] logged in with entity id 7202 at ([world]7.5, 89.0, -8.5)
-[21:28:26] [Server thread/INFO]: xamili issued server command: /tpa juancho_200
-[21:28:45] [Server thread/INFO]: juancho_200 issued server command: /tpaccept
-[21:29:00] [Server thread/INFO]: xamili issued server command: /tpa bjotas
-[21:29:03] [Server thread/INFO]: bjotas issued server command: /tpaccept
-[21:29:38] [Server thread/INFO]: xamili has made the advancement [Stone Age]
-[21:29:42] [Server thread/INFO]: xamili has made the advancement [Isn't It Iron Pick]
-[21:30:17] [Server thread/INFO]: xamili has made the advancement [Monster Hunter]
-[21:30:45] [Server thread/INFO]: xamili has made the advancement [Diamonds!]
-[21:30:50] [Server thread/INFO]: Doffe issued server command: /tp AtroxX6
-[21:30:50] [Server thread/INFO]: [Doffe: Teleported Doffe to AtroxX6]
-[21:31:59] [Server thread/INFO]: xamili has made the advancement [Cover Me with Diamonds]
-[21:32:08] [Server thread/INFO]: xamili has made the advancement [Suit Up]
-[21:32:30] [Server thread/INFO]: xamili has made the advancement [Acquire Hardware]
-[21:33:43] [Server thread/INFO]: AtroxX6 has made the advancement [Diamonds!]
-[21:33:49] [Server thread/INFO]: Doffe has made the advancement [Diamonds!]
-[21:37:23] [User Authenticator #3/INFO]: UUID of player gusty44x is b0361890-1d44-3d31-98e4-0e22a3aa816e
-[21:37:25] [Server thread/INFO]: gusty44x joined the game
-[21:37:25] [Server thread/INFO]: gusty44x[/127.159.84.66:33871] logged in with entity id 10137 at ([world]6.5, 87.0, -3.5)
-[21:37:44] [Server thread/INFO]: gusty44x issued server command: /msg AtroxX6 que onda pe
-[21:37:59] [Async Chat Thread - #5/INFO]: [Not Secure] <gusty44x> a
-[21:38:23] [Server thread/INFO]: Doffe has made the advancement [Cover Me with Diamonds]
-[21:38:48] [Server thread/INFO]: gusty44x issued server command: /tpa AtroxX6
-[21:38:48] [Server thread/INFO]: Doffe issued server command: /tp gusty44x Doffe
-[21:38:48] [Server thread/INFO]: [Doffe: Teleported gusty44x to Doffe]
-[21:38:58] [Server thread/INFO]: gusty44x has made the advancement [Suit Up]
-[21:38:59] [Server thread/INFO]: gusty44x has made the advancement [Acquire Hardware]
-[21:39:43] [Server thread/INFO]: gusty44x has made the advancement [Stone Age]
-[21:39:46] [Server thread/INFO]: gusty44x has made the advancement [Getting an Upgrade]
-[21:41:14] [Server thread/INFO]: juancho_200 has made the advancement [Hot Stuff]
-[21:41:46] [Server thread/INFO]: juancho_200 issued server command: /tpa AtroxX6
-[21:43:12] [Server thread/INFO]: gusty44x has made the advancement [Isn't It Iron Pick]
-[21:44:47] [Async Chat Thread - #6/INFO]: [Not Secure] <bjotas> nico
-[21:44:51] [Async Chat Thread - #6/INFO]: [Not Secure] <bjotas> podemos raidear?
-[21:46:13] [Server thread/INFO]: gusty44x has made the advancement [Diamonds!]
-[21:46:33] [Server thread/INFO]: Doffe issued server command: /tp AtroxX6
-[21:46:33] [Server thread/INFO]: [Doffe: Teleported Doffe to AtroxX6]
-[21:48:21] [Server thread/INFO]: xamili lost connection: Disconnected
-[21:48:21] [Server thread/INFO]: xamili left the game
-[21:52:07] [Server thread/INFO]: juancho_200 has made the advancement [Best Friends Forever]
-[21:52:29] [Server thread/INFO]: AtroxX6 has made the advancement [Cover Me with Diamonds]
-[21:52:58] [Server thread/INFO]: Doffe issued server command: /tp AtroxX6
-[21:52:58] [Server thread/INFO]: [Doffe: Teleported Doffe to AtroxX6]
-[21:53:10] [Server thread/INFO]: gusty44x has made the advancement [Cover Me with Diamonds]
-[21:53:25] [Server thread/INFO]: Doffe issued server command: /gamemode spectator
-[21:53:25] [Server thread/INFO]: [Doffe: Set own game mode to Spectator Mode]
-[21:53:43] [Server thread/INFO]: Doffe issued server command: /gamemode survival
-[21:53:43] [Server thread/INFO]: [Doffe: Set own game mode to Survival Mode]
-[21:54:45] [Server thread/INFO]: Doffe issued server command: /gamerule commandBlockOutput false
-[21:54:45] [Server thread/INFO]: [Doffe: Gamerule commandBlockOutput is now set to: false]
-[21:54:54] [Server thread/INFO]: Doffe issued server command: /gamemode spectator
-[21:54:54] [Server thread/INFO]: [Doffe: Set own game mode to Spectator Mode]
-[21:54:55] [Server thread/INFO]: Doffe issued server command: /gamemode survival
-[21:54:55] [Server thread/INFO]: [Doffe: Set own game mode to Survival Mode]
-[21:55:03] [Server thread/INFO]: Doffe issued server command: /gamemode spectator
-[21:55:03] [Server thread/INFO]: [Doffe: Set own game mode to Spectator Mode]
-[21:55:12] [Server thread/INFO]: gusty44x has made the advancement [Monster Hunter]
-[21:55:14] [Server thread/INFO]: Doffe issued server command: /gamemode survival
-[21:55:14] [Server thread/INFO]: [Doffe: Set own game mode to Survival Mode]
-[21:55:38] [Server thread/INFO]: Doffe has made the advancement [Monster Hunter]
-[21:56:51] [Server thread/INFO]: juancho_200 has made the advancement [Ice Bucket Challenge]
-[21:58:11] [Server thread/INFO]: juancho_200 has made the advancement [The Parrots and the Bats]
-[21:58:20] [User Authenticator #4/INFO]: UUID of player xamili is 799dbed0-e3d0-359c-b4fe-703067779aae
-[21:58:21] [Server thread/INFO]: xamili joined the game
-[21:58:21] [Server thread/INFO]: xamili[/127.187.61.161:44519] logged in with entity id 22905 at ([world]-697.9831131561292, 120.0, -220.46571889818392)
-[21:59:32] [Server thread/INFO]: bjotas issued server command: /tpa xamili
-[21:59:35] [Server thread/INFO]: xamili issued server command: /tpaccept
-[22:00:13] [Server thread/INFO]: Doffe lost connection: Disconnected
-[22:00:13] [Server thread/INFO]: Doffe left the game
-[22:00:18] [User Authenticator #5/INFO]: UUID of player Doffe is 966e33d6-83c7-375c-af7d-a2b81ef9cd9c
-[22:00:19] [Server thread/INFO]: Doffe joined the game
-[22:00:19] [Server thread/INFO]: Doffe[/127.210.4.35:40857] logged in with entity id 24614 at ([world]-392.45393708912445, 58.88801513223877, -23.524364028462582)
-[22:00:20] [Server thread/INFO]: Doffe issued server command: /gamemode spectator
-[22:00:20] [Server thread/INFO]: [Doffe: Set own game mode to Spectator Mode]
-[22:00:23] [Server thread/INFO]: Doffe issued server command: /gamemode survival
-[22:00:23] [Server thread/INFO]: [Doffe: Set own game mode to Survival Mode]
-[22:00:38] [Server thread/INFO]: juancho_200 has made the advancement [We Need to Go Deeper]
-[22:01:16] [Server thread/INFO]: gusty44x issued server command: /tpa Doffe
-[22:01:19] [Server thread/INFO]: Doffe issued server command: /tpaccept
-[22:01:24] [Server thread/INFO]: AtroxX6 issued server command: /tpa Doffe
-[22:01:26] [Server thread/INFO]: Doffe issued server command: /tpaccept
-[22:02:12] [Server thread/INFO]: Doffe issued server command: /gamerule playersSleepingPercentage 0
-[22:02:12] [Server thread/INFO]: [Doffe: Gamerule playersSleepingPercentage is now set to: 0]
-[22:02:14] [Server thread/INFO]: bjotas has made the advancement [Ice Bucket Challenge]
-[22:02:28] [Server thread/INFO]: Doffe issued server command: /gamerule playersSleepingPercentage 1
-[22:02:28] [Server thread/INFO]: [Doffe: Gamerule playersSleepingPercentage is now set to: 1]
-[22:03:56] [Server thread/INFO]: juancho_200 has made the advancement [Oh Shiny]
-[22:05:21] [Server thread/INFO]: Doffe issued server command: /locate structure minecraft:village_plains
-[22:05:21] [Server thread/INFO]: Locating element minecraft:village_plains took 1 ms
-[22:06:02] [Server thread/INFO]: AtroxX6 issued server command: /tpa Doffe
-[22:06:04] [Server thread/INFO]: Doffe issued server command: /tpaccept
-[22:06:16] [Server thread/INFO]: gusty44x issued server command: /tpa Doffe
-[22:06:18] [Server thread/INFO]: Doffe issued server command: /tpaccept
-[22:06:19] [Server thread/INFO]: Doffe issued server command: /tpaccept
-[22:07:07] [Server thread/INFO]: gusty44x issued server command: /tpa Doffe
-[22:07:12] [Server thread/INFO]: Doffe issued server command: /tpaccept
-[22:07:24] [Server thread/INFO]: gusty44x issued server command: /tpa Doffe
-[22:07:26] [Server thread/INFO]: Doffe issued server command: /tpaccept
-[22:08:13] [Server thread/INFO]: Doffe has made the advancement [Sweet Dreams]
-[22:08:15] [Server thread/INFO]: xamili has made the advancement [Not Today, Thank You]
-[22:11:05] [Server thread/INFO]: gusty44x issued server command: /tpa AtroxX6
-[22:11:19] [Server thread/INFO]: AtroxX6 issued server command: /tpaccept
-[22:12:45] [Server thread/INFO]: xamili issued server command: /tpa bjotas
-[22:12:48] [Server thread/INFO]: bjotas issued server command: /tpaccept
-[22:16:38] [Server thread/INFO]: AtroxX6 issued server command: /tpa gusty44x
-[22:16:53] [Server thread/INFO]: gusty44x issued server command: /tpaccept
-[22:17:39] [Server thread/INFO]: xamili issued server command: /tp xamili -685.0 119 -223.0
-[22:18:53] [Server thread/INFO]: AtroxX6 issued server command: /tpa Doffe
-[22:18:54] [Server thread/INFO]: Doffe issued server command: /locate structure minecraft:village_plains
-[22:18:55] [Server thread/INFO]: Locating element minecraft:village_plains took 661 ms
-[22:18:56] [Server thread/INFO]: xamili issued server command: /msg bjotas escodi algunos aldeanos
-[22:18:57] [Server thread/INFO]: Doffe issued server command: /tpaccept
-[22:19:02] [Server thread/INFO]: bjotas issued server command: /r dale
-[22:19:03] [Server thread/INFO]: Villager Villager['Nitwit'/11270, uuid='a8ccf6d1-b91b-4066-b88c-a94f380d95ed', l='ServerLevel[world]', x=-695.52, y=120.00, z=-213.33, cpos=[-44, -14], tl=43318, v=true] died, message: 'Nitwit was slain by xamili'
-[22:19:05] [Server thread/INFO]: xamili has made the advancement [Sweet Dreams]
-[22:19:08] [Server thread/INFO]: Villager Villager['Villager'/12592, uuid='540ae6dc-8bda-4f40-9411-b8ddc0ea87e8', l='ServerLevel[world]', x=-696.70, y=120.00, z=-211.70, cpos=[-44, -14], tl=41763, v=true] died, message: 'Villager was slain by xamili'
-[22:19:11] [Server thread/INFO]: Villager Villager['Villager'/10930, uuid='bf87e023-8510-45fc-bc88-391e32c1915e', l='ServerLevel[world]', x=-693.08, y=120.00, z=-213.88, cpos=[-44, -14], tl=43007, v=true] died, message: 'Villager was slain by xamili'
-[22:20:09] [Server thread/INFO]: AtroxX6 issued server command: /tpa Doffe
-[22:20:49] [Server thread/INFO]: AtroxX6 issued server command: /tpa Doffe
-[22:20:52] [Server thread/INFO]: Doffe issued server command: /tpaccept
-[22:21:20] [Server thread/INFO]: AtroxX6 issued server command: /tpa Doffe
-[22:21:20] [Server thread/INFO]: Doffe has made the advancement [Ice Bucket Challenge]
-[22:21:23] [Server thread/INFO]: Doffe issued server command: /tpaccept
-[22:21:31] [Server thread/INFO]: AtroxX6 issued server command: /tpa Doffe
-[22:21:37] [Server thread/INFO]: Doffe issued server command: /tpaccept
-[22:21:48] [Server thread/INFO]: gusty44x issued server command: /tpa Doffe
-[22:21:53] [Server thread/INFO]: Doffe issued server command: /tpaccept
-[22:22:20] [Server thread/INFO]: bjotas issued server command: /msg xamili me fui ala mrd
-[22:22:43] [Server thread/INFO]: xamili issued server command: /msg bjotas hacete tp y pasamos los aldeanos por el portal del nether
-[22:22:50] [Server thread/INFO]: bjotas issued server command: /msg nana
-[22:22:56] [Server thread/INFO]: bjotas issued server command: /msg xamili nono busco otra aldea
-[22:23:04] [Async Chat Thread - #11/INFO]: [Not Secure] <xamili> bueno
-[22:23:47] [Server thread/INFO]: gusty44x issued server command: /tpa AtroxX6
-[22:23:50] [Server thread/INFO]: AtroxX6 issued server command: /tpaccept
+[00:04:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:04:51] [ServerMain/INFO]: Loaded 1290 recipes
+[00:04:51] [ServerMain/INFO]: Loaded 1399 advancements
+[00:04:51] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[00:04:51] [Server thread/INFO]: Loading properties
+[00:04:51] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[00:04:52] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[00:04:52] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:04:52] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:04:53] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[00:04:54] [Server thread/INFO]: Default game type: SURVIVAL
+[00:04:54] [Server thread/INFO]: Generating keypair
+[00:04:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:04:54] [Server thread/INFO]: Using epoll channel type
+[00:04:54] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:04:54] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[00:04:54] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[00:04:54] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.4
+[00:04:54] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:04:54] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[00:04:56] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[00:04:57] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[00:04:59] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[00:04:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:04:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:04:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:04:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:04:59] [Server thread/INFO]: Preparing level "world"
+[00:04:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:04:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[00:04:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[00:04:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[00:04:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[00:04:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[00:04:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:04:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
+[00:04:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
+[00:04:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[00:04:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:04:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[00:04:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[00:05:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:05:02] [Server thread/INFO]: Time elapsed: 2033 ms
+[00:05:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:05:03] [Server thread/INFO]: Time elapsed: 689 ms
+[00:05:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:05:03] [Server thread/INFO]: Time elapsed: 263 ms
+[00:05:03] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
+[00:05:03] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[00:05:03] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
+[00:05:03] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[00:05:03] [Server thread/INFO]: [spark] Starting background profiler...
+[00:05:04] [Server thread/INFO]: Done preparing level "world" (4.547s)
+[00:05:04] [Server thread/INFO]: Running delayed init tasks
+[00:05:04] [Server thread/INFO]: Done (25.137s)! For help, type "help"
+[00:05:04] [Server thread/INFO]: Timings Reset
+[00:06:28] [User Authenticator #0/INFO]: UUID of player bjotas is 31694f1c-e73c-3b2a-8156-706c0d4c64cd
+[00:06:31] [Server thread/INFO]: bjotas joined the game
+[00:06:31] [Server thread/INFO]: bjotas[/127.117.116.156:37683] logged in with entity id 33 at ([world]-779.173184724203, 85.38582989871914, -291.3685532159926)
+[00:09:39] [Server thread/INFO]: bjotas has made the advancement [Sweet Dreams]
